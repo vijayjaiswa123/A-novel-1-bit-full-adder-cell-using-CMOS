@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='J-2014.09-SP2-2 64-BIT'
+.TITLE ' '
+ avg_power        tdlay            temper           alter#          
+ -2.525e-009      -1.985e-008       2.500e+001      1               
